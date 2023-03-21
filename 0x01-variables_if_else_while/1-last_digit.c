@@ -4,7 +4,8 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 /**
- * main - A program that prints the sign value of a number
+ * main - A program that prints the last digit of a number
+ * and determines if the number is greater, equal to or less than 5
  * Return: 0 (Successful)
  */
 
