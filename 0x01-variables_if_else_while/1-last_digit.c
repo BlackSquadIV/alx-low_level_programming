@@ -5,15 +5,13 @@
 /* betty style doc for function main goes there */
 /**
  * main - A program that prints the sign value of a number
- * Return: 0 (Successful)
+ * Return: 0 (Successfu)
  */
 int main(void)
 {
-	int n;
-
-	srand(time(0));
-	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+int n;
+srand(time(0));
+n = rand() - RAND_MAX / 2;
 
 if ((n % 10) > 5)
 {
@@ -25,7 +23,7 @@ if ((n % 10) > 5)
 }
 		else
 {
-	printf("Last digit of %d is %d and is 0\n" n, n % 10);
+			printf("Last digit of %d is %d and is 0\n" n, n % 10);
 }
 return (0);
 }
