@@ -5,11 +5,13 @@
 /* betty style doc for function main goes there */
 /**
  * main - A program that prints the sign value of a number
- * Return: 0 (Successfu)
+ * Return: 0 (Successful)
  */
+
 int main(void)
 {
 int n;
+
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 
