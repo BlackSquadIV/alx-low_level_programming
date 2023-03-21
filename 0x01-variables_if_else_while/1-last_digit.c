@@ -1,8 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* more headers goes there */
-/* betty style doc for function main goes there */
+
 /**
  * main - A program that prints the last digit of a number
  * and determines if the number is greater, equal to or less than 5
@@ -26,7 +25,7 @@ if ((n % 10) > 5)
 }
 		else
 {
-			printf("Last digit of %d is %d and is 0\n" n, n % 10);
+			printf("Last digit of %d is %d and is 0\n", n, n % 10);
 }
 return (0);
 }
