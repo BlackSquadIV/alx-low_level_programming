@@ -9,12 +9,16 @@ int main(void)
 {
 	char num[] = "0123456789";
 	char alp[] = "abcdef";
-	int i = 16;
+	int i = 10;
+	int a = 6;
 
-	for (i = 0; i <= 16; i++)
+	for (i = 0; i <= 10; i++)
 	{
 		putchar(num[i]);
-		putchar(alp[i]);
+	}
+	for (a = 0; a <= 6; a++)
+	{
+		putchar(alp[a]);
 	}
 	putchar('\n');
 return (0);
