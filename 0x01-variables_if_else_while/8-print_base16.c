@@ -12,11 +12,11 @@ int main(void)
 	int i = 10;
 	int a = 6;
 
-	for (i = 0; i <= 10; i++)
+	for (i = 0; i <= 9; i++)
 	{
 		putchar(num[i]);
 	}
-	for (a = 0; a <= 6; a++)
+	for (a = 0; a <= 5; a++)
 	{
 		putchar(alp[a]);
 	}
