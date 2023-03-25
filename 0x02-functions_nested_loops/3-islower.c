@@ -3,7 +3,7 @@
 /**
  * _islower - checks for alphabets in lowercase.
  *
- * 0c - parameter to be printed
+ * @c: parameter to be printed
  *
  * Return: 1 if it is lowercase
  * and 0 if otherwise
