@@ -1,0 +1,35 @@
+#include <stdio.h>
+#inlcude <stdlib.h>
+
+/**
+ * Name: EJIMFUGHA OLUEBUBE CHUKWUEMEKA
+ * REG NO: 20181101953
+ * OPTION: ECE
+ * Serial No: 25
+ * 
+ * main - A program that prints  my names
+ *
+ * Return: Always 0
+ */
+
+int main(void)
+{
+	printf("EJIMFUGHA OLUEBUBE CHUKWUEMEKA\n");
+
+return(0);
+}
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+"1-alphabet.c" 18L, 213C                           17,1-8        All
